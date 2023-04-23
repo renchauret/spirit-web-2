@@ -1,3 +1,1 @@
-
-rootProject.name = "confexplorer"
-
+rootProject.name = "spirit-web"
